@@ -1,6 +1,6 @@
 //  webpack.config.js
 module.exports = {
-    entry: './index.js',
+    entry: './index.ts',
     output: {
         filename: 'bundle.js',
         path: __dirname
