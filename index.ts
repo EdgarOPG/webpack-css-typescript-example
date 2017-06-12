@@ -1,4 +1,5 @@
 //  app/index.js
+declare var require: any;
 
 //import CSS
 //require('./styles.css');
